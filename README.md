@@ -1,10 +1,5 @@
-### Hi there 👋
 
-<!--
-**DALGO0927/DALGO0927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-# Hola Soy Diego Leon.
+### Hola Soy Diego Leon.
 
 💻 Ingeniero de Sistemas | Desarrollador de Software
 
